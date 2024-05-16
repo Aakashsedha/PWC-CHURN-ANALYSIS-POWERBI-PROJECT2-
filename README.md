@@ -1,17 +1,17 @@
 # PWC Power BI Virtual work experience - Customer Churn Retention
 
-![PwC Power BI Virtual Case Experience](https://user-images.githubusercontent.com/118357991/227788348-b988c4df-7923-46d6-8af7-102b8042f721.png)
+
 
 ## Table of Contents:
 
-- [Problem Statement](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#problem-statement-)
-- [Datasource](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#datasource-)
-- [Data Preparation](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-preparation)
-- [Data Modeling](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-modeling)
-- [Data Analysis (DAX)](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-analysis-dax)
-- [Data Visualization (Dashboard)](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-visualization-dashboard)
-- [Insights](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#insights)
-- [Recommendation](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#recommendation)
+- [Problem Statement]
+- [Datasource]
+- [Data Preparation])
+- [Data Modeling]
+- [Data Analysis (DAX)]
+- [Data Visualization (Dashboard)]
+- [Insights]
+- [Recommendation]
 
 ## Problem Statement :
 
@@ -29,7 +29,7 @@ The purpose of this task is to:
 
 Dataset used for this task was presented by [Pwc](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and customer churn Retention dataset:
 
-Dataset: [Customer Churn Retention](https://github.com/yogeshkasar778/PWC_task_2---Customer_Churn_Retension_dashboard/blob/main/02%20Churn-Dataset.xlsx)
+
 
 ## Data Preparation:
 
